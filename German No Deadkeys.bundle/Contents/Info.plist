@@ -5,9 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.germanno deadkeys</string>
 	<key>CFBundleName</key>
-	<string>German No Deadkeys</string>
+	<string>Deutsch – Keine Deadkeys</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>KLInfo_German No Deadkeys</key>
 	<dict>
 		<key>TISInputSourceID</key>
