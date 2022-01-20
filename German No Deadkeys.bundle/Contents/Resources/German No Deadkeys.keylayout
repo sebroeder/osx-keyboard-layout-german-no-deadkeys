@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-08-26 at 16:55 (GMT+2)-->
 <!--Last edited by Ukelele version 2.2.4 on 2013-08-26 at 17:22 (GMT+2)-->
-<keyboard group="0" id="5591" name="German No Deadkeys" maxout="1">
+<keyboard group="0" id="5591" name="Deutsch – Keine Deadkeys" maxout="1">
     <layouts>
         <layout first="0" last="4" modifiers="84" mapSet="fb0"/>
         <layout first="5" last="5" modifiers="84" mapSet="18c"/>
